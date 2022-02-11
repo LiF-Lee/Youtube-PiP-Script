@@ -1,4 +1,4 @@
-javascript:(function() {
+(function() {
     console.log('@EliF-Lee - Youtube PiP Script');
     const error = (err, detail) => {
         console.log(`[Youtube PiP Script]\n${detail}`);
