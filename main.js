@@ -5,7 +5,7 @@
         alert(`[!] ${err}`);
     }
     const video = document.querySelector('video');
-    if (!window.location.href.includes('youtube.com/watch')) {
+    if (!window.location.href.includes('youtube.com')) {
         return error(`'Youtube' 웹페이지에서 영상을 시청하며 실행해주세요.`, `Request Host - ${window.location.hostname}`);
     }
     if (video.src === '') {
