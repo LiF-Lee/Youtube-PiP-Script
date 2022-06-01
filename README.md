@@ -9,3 +9,6 @@ Copy the Script above and Save it as *BookMark* in `Safari`.
 
 
 ![IMG_0245](https://user-images.githubusercontent.com/66173558/153634198-64badcdf-169d-41f4-ae96-ad50b87a3eba.jpg)
+
+
+Click bookmark while playing Youtube video.
