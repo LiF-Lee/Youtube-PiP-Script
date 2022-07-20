@@ -10,7 +10,7 @@ javascript:function _0x3f92(){const _0x126596=['youtube.com','686988lebUwz','413
 
 ![IMG](https://i.ibb.co/wBZ5KTp/A421-B09-B-AF52-435-E-B3-A7-8-C737-B0-CCCDC.png)
 
-![IMG](https://i.ibb.co/SmwpKKp/C70-B8-E86-F0-B8-4-A05-AE5-B-D4-EE03412030.png)
+![IMG](https://i.ibb.co/2PLzrB7/FFD938-BA-C9-C2-4-C9-C-8-A34-6-D35-AA3-E84-CA.png)
 
 ![IMG](https://i.ibb.co/FnbfkPs/7334-A446-90-F2-40-E5-B50-D-3-B6356-BFAEEF.png)
 
